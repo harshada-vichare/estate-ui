@@ -23,7 +23,7 @@ export default function Navbar() {
           Sign up
         </a>
         {/* small screen menu */}
-        <div className="menuIcon">
+        <div className="menu-icon">
           <img
             src="/menu.png"
             alt="Menu icon"
