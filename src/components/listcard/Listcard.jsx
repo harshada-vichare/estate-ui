@@ -6,7 +6,7 @@ export default function Listcard({ item }) {
   return (
     <div className="listcard">
       <Link to={`/${item.id}`} className="image-container">
-        <img src={item.img} alt="image" />
+        <img src={item.img} alt="image" loading="lazy" />
       </Link>
       <div className="text-container">
         <h2 className="title">
