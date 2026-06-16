@@ -125,5 +125,6 @@ http://localhost:5173
 
 ## 👨‍💻 Author
 
-Developed as a learning project to understand **How ReactJS works and it's routing process**. Learning Resource: Lama Dev (https://www.youtube.com/watch?v=HFj5FMb0jwY).
+Developed as a learning project to understand **How ReactJS works and it's routing process**. Learning Resource: Lama Dev.
+<!-- (https://www.youtube.com/watch?v=HFj5FMb0jwY) -->
 ````
