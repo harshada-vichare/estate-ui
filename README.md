@@ -4,24 +4,24 @@ A simple **Real Estate website design** built using **ReactJS, HTML, CSS, and SC
 
 ## 🚀 Features
 
-### Homepage
+### Homepage [/]
 
 - Navigation menu
 - Search functionality
 
-### Listpage
+### Listpage [/list]
 
 - Location wise results in list format
 - Filter funcationality
 - Map with listings
 
-### Singlepage
+### Singlepage [/1]
 
 - Photos of house, description, price
 - Location map
 - Sizes and nearby places
 
-### Profilepage
+### Profilepage [/profile]
 
 - User information
 - Saved lists
