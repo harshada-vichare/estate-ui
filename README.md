@@ -1,6 +1,6 @@
-# React Real Estate UI Design
+# Aavaas - React Real Estate UI Design
 
-A simple **Real Estate website design** built using **ReactJS, HTML, CSS, and SCSS**.
+A simple **Aavaas - Real Estate website design** built using **ReactJS, HTML, CSS, and SCSS**.
 
 ## 🚀 Features
 
@@ -126,5 +126,5 @@ http://localhost:5173
 ## 👨‍💻 Author
 
 Developed as a learning project to understand **How ReactJS works and it's routing process**. Learning Resource: Lama Dev.
-<!-- (https://www.youtube.com/watch?v=HFj5FMb0jwY) -->
+
 ````
